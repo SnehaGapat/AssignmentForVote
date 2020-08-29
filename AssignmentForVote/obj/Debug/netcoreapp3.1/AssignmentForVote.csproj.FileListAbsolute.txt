@@ -1,0 +1,13 @@
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\bin\Debug\netcoreapp3.1\AssignmentForVote.exe
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\bin\Debug\netcoreapp3.1\AssignmentForVote.deps.json
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\bin\Debug\netcoreapp3.1\AssignmentForVote.runtimeconfig.json
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\bin\Debug\netcoreapp3.1\AssignmentForVote.runtimeconfig.dev.json
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\bin\Debug\netcoreapp3.1\AssignmentForVote.dll
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\bin\Debug\netcoreapp3.1\AssignmentForVote.pdb
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\obj\Debug\netcoreapp3.1\AssignmentForVote.csprojAssemblyReference.cache
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\obj\Debug\netcoreapp3.1\AssignmentForVote.AssemblyInfoInputs.cache
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\obj\Debug\netcoreapp3.1\AssignmentForVote.AssemblyInfo.cs
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\obj\Debug\netcoreapp3.1\AssignmentForVote.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\obj\Debug\netcoreapp3.1\AssignmentForVote.dll
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\obj\Debug\netcoreapp3.1\AssignmentForVote.pdb
+C:\Users\Snehal\source\repos\AssignmentForVote\AssignmentForVote\obj\Debug\netcoreapp3.1\AssignmentForVote.genruntimeconfig.cache
